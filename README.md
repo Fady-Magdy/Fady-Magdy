@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @fadymagdy-dev
-- 👀 I’m interested in ... All about Programming
-- 🌱 I’m currently learning ... Frontend Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email >> fadymagdy.developer@gmail.com
-
-<!---
-fadymagdy-dev/fadymagdy-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🎗 Welcome 🎗
+### I'm Fady from Egypt
+### I'm learning frontend development
+#### My previews job before learning Programming was Drawing People 🎨🖼
+___
+# My Skills:
+   ### HTML5 = 50%   
+   ### CSS = 60%   
+   ### JavaScript = 60%   
+   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fady)](https://github.com/anuraghazra/github-readme-stats)
+___
+## My [LinkedIn](https://www.linkedin.com/in/fady-magdy-961a6a241/) Profile
+## My [HackerRank](https://www.hackerrank.com/fadymagdy_dev) Profile
