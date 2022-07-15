@@ -4,9 +4,8 @@
 ___
 ### Projects
 #### Click Image to see live Project
-[![Phone Chattinng](images/project1.png)](https://fady-magdy.github.io/Phone-Chatting-v2/)
-[![Phone Chattinng](images/project1.png)](https://fady-magdy.github.io/Phone-Chatting-v2/)
-[![Phone Chattinng](images/project1.png)](https://fady-magdy.github.io/Phone-Chatting-v2/)
+[![Phone Chattinng v1](images/project1.png)](https://fady-magdy.github.io/Phone-Chatting-v2/)
+![Soon](images/project2.png)
 ___
 ### Skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,photoshop)](https://skills.thijs.gg)
