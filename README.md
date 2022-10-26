@@ -8,7 +8,7 @@
 
 ### Skills & Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,jest,bootstrap,sass,git,github,photoshop)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,express,redux,jest,bootstrap,sass,git,photoshop)](https://skills.thijs.gg)
 
 ---
 
